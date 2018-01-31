@@ -17,7 +17,7 @@
 1. In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.
     * **abstractions**:
     * **conversations**:
-    * **specification**: 
-    * **translation**: 
+    * **specification**:
+    * **translation**:
     * **iteration**:
 
