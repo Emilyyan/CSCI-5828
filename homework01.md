@@ -15,8 +15,8 @@
 1. In lecture, software engineering's relationship to computer science was described by analogy by discussing the differences between a chemist (chemistry) and a chemical engineer (chemical engineering). Define software engineering and its relationship to computer science; make use of the chemist vs. chemical engineer analogy when answering this question.
 
 1. 
-    * **abstractions**:
-    * **conversations**:
+    * **abstractions**: Abstraction in software engineering is to establish a simpler level on top of details that is not necessary to know. The complex details are encapsulated, which can simplify the development and promise the reliability. Abstraction is significant for software engineering. For example, High-level programming languages like C++ and Java are based on abstractions. So does the data structures and libraries we use for programming. Without abstarction， the great progress on software engineering and computer science in the past decades would not happen.
+    * **conversations**: 
     * **specification**:
     * **translation**:
     * **iteration**:
