@@ -10,8 +10,14 @@
     
     Let’s take an online shopping website as an example. A large online store is designed for handling thousands of use cases, (**complexities**). The servers have to pass the load testing for the varying internet traffic, and the architecture of the system might need to be refactored for scaling up (**changeability**). The developers have to cooperate with people with different thought such as marketing officers and product managers. In a group of programmers even though, some might believe PHP is the best language for implementing the server, while others love python (**conformity**). When an error is reported from the customer services or the maintenance, the essential reason that caused the bug is sometimes difficult to discover because it is not visible and can only be located by logic and clever mind (**invisibility**).
 
-1. According to the article, silver bullet in software engineering is a methodology, technology or management tectnique that can make an one order-of-magnitude improvement on the productivity, reliability and simplicity in the development of all sorts of software systems. Due to Brooks' observation on the industy and the essential difficulties in building conceptual constructs for software systems, he believed that there is inherently no silver bullet for software engineering.  
+1. According to the article, silver bullet in software engineering is a methodology, technology or management tectnique that can make an one order-of-magnitude improvement on the productivity, reliability and simplicity in the development of all sorts of software systems in 10 years. Due to Brooks' observation on the industy and the essential difficulties in building conceptual constructs for software systems, he believed that there is inherently no silver bullet for software engineering.  
 
 1. In lecture, software engineering's relationship to computer science was described by analogy by discussing the differences between a chemist (chemistry) and a chemical engineer (chemical engineering). Define software engineering and its relationship to computer science; make use of the chemist vs. chemical engineer analogy when answering this question.
+
 1. In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.
+    *. **abstractions**:
+    *. **conversations**:
+    *. **specification**: 
+    *. **translation**: 
+    *. **iteration**:
 
