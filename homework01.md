@@ -14,9 +14,12 @@
 
 1. In lecture, software engineering's relationship to computer science was described by analogy by discussing the differences between a chemist (chemistry) and a chemical engineer (chemical engineering). Define software engineering and its relationship to computer science; make use of the chemist vs. chemical engineer analogy when answering this question.
 
-1. * **abstractions**: Abstraction in software engineering is to establish a simpler level on top of details that is not necessary to know. The complex details are encapsulated, which can simplify the development and promise the reliability. Abstraction is significant for software engineering. For example, High-level programming languages like C++ and Java are based on abstractions. So does the data structures and libraries we use for programming. Without abstarction， the great progress on software engineering and computer science in the past decades would not happen.
-    * **conversations**: 
-    * **specification**:
-    * **translation**:
+1. * **abstractions**: Abstraction in software engineering is to establish a simpler level on top of details that are not necessary to know. The complex details are encapsulated, which can simplify the development and promise the reliability. Abstraction is significant for software engineering. For example, High-level programming languages like C++ and Java are based on abstractions. So does the data structures and libraries we use for programming. Without abstarction， the great progress on software engineering and computer science in the past decades would not happen.
+    * **conversations**: Conversation is the way in which people who perform software engineering build the common believes，objectives, understanding and views on the projects. Conversation is important because we need to cooperate with others to implement a modern software system. Without conversation through discussion, documentation and test cases, we cannot cooperate well.
+    * **specification**: Specification is the blueprint and plan for the engineers and it should be there before implementing anything. Specification is important for clearifying the project requirements, setting the budgets, assigning tasks, control the development life cycle and many other purposes.
+    * **translation**: Translation in software engineering (S/E) means all works in S/E can be regarded as kinds of translation. This principle is important development life cycles in which：
+        * specifications are translated for each phases. 
+        * bigger problems are translated into smaller ones.
+        * abstractions are translated to the next levels.
     * **iteration**:
 
