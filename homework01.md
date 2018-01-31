@@ -1,8 +1,8 @@
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
-1. According to Brooks's illustration, essential difficulties are the inevitable difficulties caused by the inherent properties of software systems. It is congenitally and essentially difficult to construct conceptual solution from abstract problem. For example, it is difficult to build a robot that behaves like human.
+1. According to Brooks's illustration, essential difficulties are the inevitable difficulties caused by the inherent properties of software systems, and met when developers try to construct conceptual solutions from abstract problems. For example, it is difficult to build a robot that behaves like human.
 
-1. Accidental difficulties are those difficulties met when developers try to implement the conceptual solutions. For example, it is difficult to design and implement a functional and beautiful user interface with ease of use. But the difficulty is not essential.
+1. Accidental difficulties are those difficulties met when developers try to implement the designed conceptual solutions. For example, it is difficult to design and implement a functional and beautiful user interface with ease of use. The difficulty is not essential.
 
 1. In the article, Brooks summarized the essential difficulties into four irreducible categories: complexity, conformity, changeability and invisibility. 
     1. A software system is made of different components and the interaction logics between them. When the project scales up, the complexity increase faster than linearity. The difficulties in intelligent activities like software development is normally essential.
