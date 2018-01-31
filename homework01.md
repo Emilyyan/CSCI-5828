@@ -19,8 +19,8 @@
     * **conversations**: Conversation is the way in which people who perform software engineering build the common believes，objectives, understanding and views on the projects. Conversation is important because we need to cooperate with others to implement a modern software system. Without conversation through discussion, documentation and test cases, we cannot cooperate well.
     * **specification**: Specification is the blueprint and plan for the engineers and it should be there before implementing anything. Specification is important for clearifying the project requirements, setting the budgets, assigning tasks, control the development life cycle and many other purposes.
     * **translation**: Translation in software engineering (S/E) means all works in S/E can be regarded as kinds of translation. This principle is important development life cycles in which: 
-        * A specification is translated for the next phases
-        * A bigger problem is translated into smaller ones
+        * A specification is translated for the next phases.
+        * A bigger problem is translated into smaller ones.
         * An abstractions is translated to the next level.
     * **iteration**: This principle indicates that all the works of software engineering should be accomplished step by step (development cycle). It is indispensable for the management of a large scale project. According to the preset schedule specification, developers iteratively implement new features, test the new version and deliver it.
 
